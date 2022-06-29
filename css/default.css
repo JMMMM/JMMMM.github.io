@@ -1518,6 +1518,11 @@ a.has-text-grey-lightest:focus {
   max-width: 100%;
   position: relative;
 }
+.card-auth {
+  color: #4a4a4a;
+  max-width: 100%;
+  position: relative;
+}
 .card-header {
   background-color: transparent;
   align-items: stretch;
